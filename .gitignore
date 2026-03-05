@@ -1,0 +1,10 @@
+__pycache__
+outputs/
+*.mp4
+*.ply
+third_party/
+.cache/
+.cursor/
+point_e_model_cache/
+frontocc*
+ras_manifest*.json
