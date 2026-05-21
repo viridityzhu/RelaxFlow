@@ -66,6 +66,8 @@ To facilitate systematic evaluation, we introduce two benchmark datasets:
 
 ### Results 
 
+<p align="center"><img src="doc/examples_grid.gif"/></p>
+
 <p align="center"><img src="doc/fig-qual.png"/></p>
 
 Extensive experiments demonstrate that RelaxFlow successfully steers the generation of unseen regions to match the prompt intent. It avoids the observation-overfitted collapse of existing models and produces high-quality 3D assets without compromising visual fidelity.
